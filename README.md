@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript on my own
 - 💞️ I’m looking to collaborate on fun stuffs 
-- 📫 How to reach me Instagram or twitter @ayokeed...
+.
 
 <!---
 ayokeed/ayokeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
