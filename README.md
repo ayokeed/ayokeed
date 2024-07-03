@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ayokeed
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript on my own
-- 💞️ I’m looking to collaborate on fun stuffs 
+
 .
 
 <!---
